@@ -1,3 +1,5 @@
+// Before Running the code, please configure your sql from line no 13 - 18
+
 const PromiseFtp = require('promise-ftp');
 const csv = require('csv-parser');
 const mysql = require('mysql');
